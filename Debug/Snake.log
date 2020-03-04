@@ -1,0 +1,10 @@
+﻿  Snake.cpp
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(74): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(88): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojtek\source\repos\snake\snake\snake.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> C:\Users\Wojtek\source\repos\Snake\Debug\Snake.exe
